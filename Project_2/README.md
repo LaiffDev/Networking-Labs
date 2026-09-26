@@ -50,4 +50,4 @@ Layer 2 (Data Link) — not Layer 1. Every link involves Layer 1 (a physical con
 - Layer 2 forwarding applies uniformly across all switch ports, including uplinks
 - Distinction between "a working physical link" (Layer 1) and "how forwarding decisions are made" (Layer 2)
 
-<img width="997" height="660" alt="Screenshot 2026-09-26 134236" src="https://github.com/user-attachments/assets/5390d061-9990-4b09-ad31-1c012eaf4dfe" />
+<img width="957" height="666" alt="project_2" src="https://github.com/user-attachments/assets/594928b1-7851-4eeb-b28c-25525780e3b2" />
