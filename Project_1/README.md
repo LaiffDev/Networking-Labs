@@ -49,3 +49,5 @@ Swapped in a switch with more available ports and connected it to the router's E
 - Default gateways and why devices on different subnets need a router to communicate
 - Physical vs. management ports (Ethernet vs. Console)
 - Layer-by-layer troubleshooting: checking the physical connection first before assuming a configuration error
+
+<img width="1080" height="657" alt="Screenshot 2026-09-26 124121" src="https://github.com/user-attachments/assets/7c0b4563-ef09-49ed-8e29-3e7bce754bbe" />
